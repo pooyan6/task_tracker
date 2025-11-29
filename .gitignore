@@ -1,0 +1,18 @@
+# PHP / XAMPP
+/vendor/
+composer.lock
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs & temp
+logs/
+tmp/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Config with real passwords
+app/config/config.php
